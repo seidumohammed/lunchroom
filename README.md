@@ -1,1 +1,1 @@
-## Mult Vendor Restaurant Marketplace
+## Multi Vendor Restaurant Marketplace
